@@ -1,6 +1,6 @@
 # base windows fonts
 
-The entire collection of fonts that ship with Windows 10 by default, including a few extra specifically for Garry's Mod. Intended to be used for Garry's Mod running through Proton or any other program running through WINE, but will work for any purpose on your system. 
+The entire collection of fonts that ship with Windows 10 by default, including a few extra specifically for Garry's Mod. Intended to be used for Garry's Mod running through Proton or any other program running through WINE, but will also work for any purpose on your system. 
 
 This is because due to licencing concerns Garry's Mod and the Linux Project cannot include these fonts without facing steep licencing costs or legal repercussions. I've put these fonts here so that anyone running Linux doesn't have to go through the hell that I did of setting up a VM with a shared folder just to fetch a folder of fonts.
 
