@@ -6,6 +6,9 @@ This is because due to licencing concerns Garry's Mod and the Linux Project cann
 
 # Installation
 
+- Install the source .zip or clone the repo to your machine using `git clone`.
+- *[If you downloaded the ZIP]* Extract the zip's contents.
+
 **For Garry's Mod:**
 - Paste the contents of the folder to `/home/{USER}/.local/share/Steam/steamapps/compatdata/4000/pfx/drive_c/windows/Fonts/`.
 - Restart Garry's Mod.
